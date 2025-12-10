@@ -1,0 +1,70 @@
+Genus	Species	Common_Name	Kingdom	Family
+Homo	sapiens	Human	Animalia	Hominidae
+Canis	lupus	Gray Wolf	Animalia	Canidae
+Felis	catus	Domestic Cat	Animalia	Felidae
+Mus	musculus	House Mouse	Animalia	Muridae
+Rattus	norvegicus	Norway Rat	Animalia	Muridae
+Drosophila	melanogaster	Fruit Fly	Animalia	Drosophilidae
+Escherichia	coli	E. coli	Bacteria	Enterobacteriaceae
+Saccharomyces	cerevisiae	Baker's Yeast	Fungi	Saccharomycetaceae
+Arabidopsis	thaliana	Thale Cress	Plantae	Brassicaceae
+Quercus	alba	White Oak	Plantae	Fagaceae
+Pinus	sylvestris	Scots Pine	Plantae	Pinaceae
+Rosa	rubiginosa	Sweet Briar	Plantae	Rosaceae
+Panthera	leo	Lion	Animalia	Felidae
+Panthera	tigris	Tiger	Animalia	Felidae
+Plasmodium	falciparum	Malaria Parasite	Protista	Plasmodiidae
+Mycobacterium	tuberculosis	TB Bacteria	Bacteria	Mycobacteriaceae
+Streptococcus	pyogenes	Group A Strep	Bacteria	Streptococcaceae
+Bacillus	subtilis	Hay Bacillus	Bacteria	Bacillaceae
+Pseudomonas	aeruginosa	Blue-green Bacteria	Bacteria	Pseudomonadaceae
+Salmonella	enterica	Salmonella	Bacteria	Enterobacteriaceae
+Staphylococcus	aureus	Golden Staph	Bacteria	Staphylococcaceae
+Candida	albicans	Thrush Fungus	Fungi	Candidaceae
+Aspergillus	niger	Black Mold	Fungi	Aspergillaceae
+Penicillium	chrysogenum	Penicillin Mold	Fungi	Trichocomaceae
+Zea	mays	Corn	Plantae	Poaceae
+Oryza	sativa	Rice	Plantae	Poaceae
+Triticum	aestivum	Wheat	Plantae	Poaceae
+Glycine	max	Soybean	Plantae	Fabaceae
+Solanum	tuberosum	Potato	Plantae	Solanaceae
+Brassica	oleracea	Cabbage	Plantae	Brassicaceae
+Cucumis	sativus	Cucumber	Plantae	Cucurbitaceae
+Vitis	vinifera	Grape	Plantae	Vitaceae
+Citrus	sinensis	Orange	Plantae	Rutaceae
+Malus	domestica	Apple	Plantae	Rosaceae
+Prunus	persica	Peach	Plantae	Rosaceae
+Fragaria	ananassa	Strawberry	Plantae	Rosaceae
+Helianthus	annuus	Sunflower	Plantae	Asteraceae
+Gossypium	hirsutum	Cotton	Plantae	Malvaceae
+Acer	saccharum	Sugar Maple	Plantae	Sapindaceae
+Betula	pendula	Silver Birch	Plantae	Betulaceae
+Fagus	sylvatica	European Beech	Plantae	Fagaceae
+Populus	tremula	Aspen	Plantae	Salicaceae
+Salix	alba	White Willow	Plantae	Salicaceae
+Ulmus	americana	American Elm	Plantae	Ulmaceae
+Fraxinus	excelsior	European Ash	Plantae	Oleaceae
+Picea	abies	Norway Spruce	Plantae	Pinaceae
+Abies	alba	Silver Fir	Plantae	Pinaceae
+Larix	decidua	European Larch	Plantae	Pinaceae
+Cedrus	libani	Cedar of Lebanon	Plantae	Pinaceae
+Juniperus	communis	Common Juniper	Plantae	Cupressaceae
+Taxus	baccata	European Yew	Plantae	Taxaceae
+Sequoia	sempervirens	Coast Redwood	Plantae	Cupressaceae
+Apis	mellifera	Honey Bee	Animalia	Apidae
+Bombus	terrestris	Buff-tailed Bumblebee	Animalia	Apidae
+Gallus	gallus	Red Junglefowl	Animalia	Phasianidae
+Bos	taurus	Cattle	Animalia	Bovidae
+Sus	scrofa	Wild Boar	Animalia	Suidae
+Ovis	aries	Sheep	Animalia	Bovidae
+Capra	hircus	Goat	Animalia	Bovidae
+Equus	caballus	Horse	Animalia	Equidae
+Cervus	elaphus	Red Deer	Animalia	Cervidae
+Ursus	americanus	Black Bear	Animalia	Ursidae
+Vulpes	vulpes	Red Fox	Animalia	Canidae
+Lynx	lynx	Eurasian Lynx	Animalia	Felidae
+Puma	concolor	Mountain Lion	Animalia	Felidae
+Acinonyx	jubatus	Cheetah	Animalia	Felidae
+Elephas	maximus	Asian Elephant	Animalia	Elephantidae
+Rhinoceros	unicornis	Indian Rhinoceros	Animalia	Rhinocerotidae
+Hippopotamus	amphibius	Hippopotamus	Animalia	Hippopotamidae
